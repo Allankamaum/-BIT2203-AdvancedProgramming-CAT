@@ -1,4 +1,3 @@
-// AppConfig.java
 package com.example;
 
 import org.springframework.context.annotation.*;
