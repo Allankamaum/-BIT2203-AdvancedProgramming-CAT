@@ -1,3 +1,5 @@
+package com.jkuat.cat.q1;
+
 import java.net.URL;
 import java.net.URLDecoder;
 

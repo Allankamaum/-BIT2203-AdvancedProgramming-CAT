@@ -1,3 +1,5 @@
+package com.jkuat.cat.q5;
+
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 

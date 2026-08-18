@@ -1,4 +1,4 @@
-package com.example;
+package com.jkuat.cat.q4;
 
 import org.springframework.stereotype.Service;
 

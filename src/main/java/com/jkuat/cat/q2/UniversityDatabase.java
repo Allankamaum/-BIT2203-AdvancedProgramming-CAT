@@ -1,3 +1,5 @@
+package com.jkuat.cat.q2;
+
 import java.sql.*;
 
 public class UniversityDatabase {

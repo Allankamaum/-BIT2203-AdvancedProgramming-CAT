@@ -1,3 +1,5 @@
+package com.jkuat.cat.q5;
+
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 

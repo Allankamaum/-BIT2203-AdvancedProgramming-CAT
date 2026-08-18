@@ -1,3 +1,5 @@
+package com.jkuat.cat.q6;
+
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
 import java.io.*;

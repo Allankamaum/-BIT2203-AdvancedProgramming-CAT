@@ -1,3 +1,5 @@
+package com.jkuat.cat.q5;
+
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 

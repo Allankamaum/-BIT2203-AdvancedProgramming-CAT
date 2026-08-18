@@ -1,11 +1,15 @@
-import javax.servlet.http.*;
+package com.jkuat.cat.q3;
+
+
+import jakarta.servlet.ServletException;
+import jakarta.servlet.http.*;
 import java.io.*;
 import java.util.*;
 
 public class ShoppingCartServlet extends HttpServlet {
 
     protected void doPost(HttpServletRequest req, HttpServletResponse res)
-            throws ServletException, IOException {
+            throws IOException {
         HttpSession session = req.getSession();
         List<String> cart = (List<String>) session.getAttribute("cart");
         if (cart == null) {
